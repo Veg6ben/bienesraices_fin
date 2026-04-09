@@ -5,6 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
     darkMode();
 });
 
+
+
 function darkMode() {
 
     const prefiereDarkMode = window.matchMedia('(prefers-color-scheme: dark)');
